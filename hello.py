@@ -10,3 +10,6 @@ print("  learn java ")
 
 print(" learn  javascript")
 
+print("type script ")
+
+
